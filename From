@@ -1,0 +1,23 @@
+#EXTM3U
+#Temporada1
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 1
+https://ia902701.us.archive.org/7/items/fr-10-iom-1/FR10IOM%201.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 2
+https://ia902700.us.archive.org/0/items/fr-10-iom-2/FR10IOM%202.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 3
+https://ia902705.us.archive.org/5/items/fr-10-iom-3/FR10IOM%203.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 4
+https://ia902704.us.archive.org/24/items/fr-10-iom-4/FR10IOM%204.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 5
+https://ia902706.us.archive.org/13/items/fr-10-iom-6/FR10IOM%205.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 6
+https://ia902706.us.archive.org/13/items/fr-10-iom-6/FR10IOM%206.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 7 
+https://ia902609.us.archive.org/13/items/fr-10-iom-7/FR10IOM%207.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 8
+https://ia902609.us.archive.org/13/items/fr-10-iom-7/FR10IOM%208.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 9
+https://ia601600.us.archive.org/20/items/fr-10-iom-9/FR10IOM%209.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/from-2-1645539123.jpg" group-title="Temporada 1",From cap 10
+https://ia601600.us.archive.org/20/items/fr-10-iom-9/FR10IOM%2010.mp4
+
